@@ -1,0 +1,979 @@
+{
+  "categories": [
+    "测速网站",
+    "工具箱",
+    "宣灵的 个人网站",
+    "常用 AI",
+    "代理平台",
+    "免版权图片素材网",
+    "代码托管与开源平台",
+    "宝藏项目",
+    "宝藏网站",
+    "谷歌工具",
+    "免费的字体网站",
+    "科学上网工具",
+    "win",
+    "素材网站",
+    "图片放大",
+    "宣灵自用工具箱",
+    "灵感枯竭参考网站",
+    "宣灵自用"
+  ],
+  "bookmarks": [
+    {
+      "id": 1,
+      "group": "测速网站",
+      "title": "fast.",
+      "url": "https://fast.com/",
+      "note": "vpn测速"
+    },
+    {
+      "id": 2,
+      "group": "测速网站",
+      "title": "cloudflare",
+      "url": "https://speed.cloudflare.com/",
+      "note": "vpn测速"
+    },
+    {
+      "id": 3,
+      "group": "测速网站",
+      "title": "Speedtest by Ookla",
+      "url": "https://www.speedtest.net/zh-Hans",
+      "note": "vpn测速"
+    },
+    {
+      "id": 4,
+      "group": "测速网站",
+      "title": "geoping",
+      "url": "https://guguli685-creator.github.io/geoping/",
+      "note": "宣灵的 vpn测速"
+    },
+    {
+      "id": 5,
+      "group": "测速网站",
+      "title": "科技大学测速网站",
+      "url": "https://test.ustc.edu.cn/",
+      "note": "测速网站"
+    },
+    {
+      "id": 6,
+      "group": "工具箱",
+      "title": "Convert",
+      "url": "https://cloudconvert.com/",
+      "note": "格式转换"
+    },
+    {
+      "id": 7,
+      "group": "工具箱",
+      "title": "itdog",
+      "url": "https://www.itdog.cn/ping/",
+      "note": "网页炸了么？"
+    },
+    {
+      "id": 8,
+      "group": "宣灵的 个人网站",
+      "title": "swanq",
+      "url": "https://guguli685-creator.github.io/swanq/",
+      "note": "余宣灵的  ps下载站"
+    },
+    {
+      "id": 9,
+      "group": "常用 AI",
+      "title": "deepseek",
+      "url": "https://platform.deepseek.com/usage",
+      "note": "鲸鱼"
+    },
+    {
+      "id": 10,
+      "group": "常用 AI",
+      "title": "deepseek",
+      "url": "https://platform.deepseek.com/sign_in",
+      "note": "鲸鱼的api开放平台"
+    },
+    {
+      "id": 11,
+      "group": "常用 AI",
+      "title": "gemini",
+      "url": "https://gemini.google.com/",
+      "note": "我经常叫他哈基米 AI"
+    },
+    {
+      "id": 12,
+      "group": "常用 AI",
+      "title": "chatgpt",
+      "url": "https://chatgpt.com/",
+      "note": "gpt"
+    },
+    {
+      "id": 14,
+      "group": "代理平台",
+      "title": "账号星球",
+      "url": "https://www.accountboy.com/",
+      "note": "聚合买号平台 （需要vpn）"
+    },
+    {
+      "id": 15,
+      "group": "宣灵的 个人网站",
+      "title": "geoping",
+      "url": "https://guguli685-creator.github.io/geoping/",
+      "note": "余宣灵的 节点出口检测网站"
+    },
+    {
+      "id": 16,
+      "group": "宣灵的 个人网站",
+      "title": "markflow",
+      "url": "https://yuxuanling.de5.net",
+      "note": "余宣灵的 个人书签网站🌸"
+    },
+    {
+      "id": 17,
+      "group": "代理平台",
+      "title": "数码荔枝",
+      "url": "https://lizhi.shop/",
+      "note": "一个合聚平台 正版授权"
+    },
+    {
+      "id": 18,
+      "group": "免版权图片素材网",
+      "title": "Unsplash",
+      "url": "https://Unsplash.com/",
+      "note": "（素材网）照片质量高内容最丰富首推"
+    },
+    {
+      "id": 19,
+      "group": "免版权图片素材网",
+      "title": "Pexels",
+      "url": "https://www.pexels.com/zh-cn/",
+      "note": "（支持中文搜索，图片+视频都有）"
+    },
+    {
+      "id": 20,
+      "group": "免版权图片素材网",
+      "title": "Hippopx",
+      "url": "https://www.hippopx.com/zh",
+      "note": "（动物、自然风光类比较突出）"
+    },
+    {
+      "id": 21,
+      "group": "免版权图片素材网",
+      "title": "Stock Up",
+      "url": "https://stockup.sitebuilderreport.com/",
+      "note": "日常生活场景"
+    },
+    {
+      "id": 22,
+      "group": "免版权图片素材网",
+      "title": "Pxhere",
+      "url": "https://pxhere.com",
+      "note": "生活场景丰富"
+    },
+    {
+      "id": 23,
+      "group": "免版权图片素材网",
+      "title": "VI Shopper",
+      "url": "https://www.vishopper.com",
+      "note": "人物抠图素材，各种姿态"
+    },
+    {
+      "id": 24,
+      "group": "免版权图片素材网",
+      "title": "Pixabay",
+      "url": "https://pixabay.com/zh/",
+      "note": "插画+照片+音乐，风景类质量不错"
+    },
+    {
+      "id": 25,
+      "group": "免版权图片素材网",
+      "title": "Foodiesfeed",
+      "url": "https://www.foodiesfeed.com",
+      "note": "食物照片专站"
+    },
+    {
+      "id": 26,
+      "group": "免版权图片素材网",
+      "title": "StickPNG",
+      "url": "https://www.stickpng.com",
+      "note": "PNG 透明背景素材元素"
+    },
+    {
+      "id": 27,
+      "group": "免版权图片素材网",
+      "title": "Photock",
+      "url": "https://www.photock.asia",
+      "note": "日本照片素材"
+    },
+    {
+      "id": 28,
+      "group": "代码托管与开源平台",
+      "title": "gitee",
+      "url": "https://gitee.com/",
+      "note": "Gitee开源中国"
+    },
+    {
+      "id": 29,
+      "group": "代码托管与开源平台",
+      "title": "GitHub",
+      "url": "https://github.com/",
+      "note": "GitHub开源网站"
+    },
+    {
+      "id": 30,
+      "group": "宝藏项目",
+      "title": "TaskMonitor",
+      "url": "https://github.com/linesoft2/TaskMonitor/",
+      "note": "pc端 进程监控工具软件平台"
+    },
+    {
+      "id": 31,
+      "group": "代理平台",
+      "title": "APP喵-链动小铺",
+      "url": "https://pay.ldxp.cn/shop/LKTZE76P",
+      "note": "大upAPP喵"
+    },
+    {
+      "id": 32,
+      "group": "宝藏项目",
+      "title": "水杉输入法",
+      "url": "https://github.com/metasequoiaime/MetasequoiaImeTsf",
+      "note": "一款完全开源的Windows输入法"
+    },
+    {
+      "id": 33,
+      "group": "宝藏项目",
+      "title": "LiteSnap",
+      "url": "https://github.com/HuibingLin/LiteSnap",
+      "note": "轻量快速的截图与标注工具 win macos"
+    },
+    {
+      "id": 36,
+      "group": "宝藏项目",
+      "title": "vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "note": "非官方的Bitwarden兼容服务器，使用Rust编写，前称bitwarden_rs"
+    },
+    {
+      "id": 37,
+      "group": "工具箱",
+      "title": "图吧工具箱",
+      "url": "https://www.tbtool.cn/",
+      "note": "图吧工具箱官方网站"
+    },
+    {
+      "id": 38,
+      "group": "谷歌工具",
+      "title": "www.usaddrgen",
+      "url": "https://www.usaddrgen.com/zh/",
+      "note": "虚拟地址生成器"
+    },
+    {
+      "id": 40,
+      "group": "谷歌工具",
+      "title": "apkmirror",
+      "url": "https://www.apkmirror.com/apk/openai/",
+      "note": "谷歌第三方应用商店替代品"
+    },
+    {
+      "id": 41,
+      "group": "谷歌工具",
+      "title": "liteapks",
+      "url": "https://liteapks.com/",
+      "note": "谷歌应用第三方替代品"
+    },
+    {
+      "id": 42,
+      "group": "免费的字体网站",
+      "title": "fonts2u",
+      "url": "https://zh.fonts2u.com/",
+      "note": "有很多超级好看的字体"
+    },
+    {
+      "id": 43,
+      "group": "免费的字体网站",
+      "title": "zitijia",
+      "url": "https://www.zitijia.com/",
+      "note": "字体家"
+    },
+    {
+      "id": 44,
+      "group": "免费的字体网站",
+      "title": "1001fonts",
+      "url": "https://www.1001fonts.com/",
+      "note": "好看的字体也是不错的"
+    },
+    {
+      "id": 45,
+      "group": "免费的字体网站",
+      "title": "100font",
+      "url": "https://www.100font.com/",
+      "note": "字体有多种样式选择"
+    },
+    {
+      "id": 46,
+      "group": "免费的字体网站",
+      "title": "fontmeme",
+      "url": "https://fontmeme.com/",
+      "note": "同样也是不错的一个字体网站"
+    },
+    {
+      "id": 47,
+      "group": "科学上网工具",
+      "title": "ipcheck",
+      "url": "https://ipcheck.ing/#/",
+      "note": "IP 地址多方位检测"
+    },
+    {
+      "id": 48,
+      "group": "科学上网工具",
+      "title": "ippure",
+      "url": "https://ippure.com/",
+      "note": "IP地址信息和纯净度检测|IPPure"
+    },
+    {
+      "id": 49,
+      "group": "科学上网工具",
+      "title": "scamalytics",
+      "url": "https://scamalytics.com/",
+      "note": "查看欺诈分"
+    },
+    {
+      "id": 50,
+      "group": "科学上网工具",
+      "title": "ipinfo.cv",
+      "url": "https://ipinfo.cv/",
+      "note": "一个网络工具箱"
+    },
+    {
+      "id": 51,
+      "group": "科学上网工具",
+      "title": "ip分流测试",
+      "url": "https://ip.net.coffee/",
+      "note": "一键查询 IP 分流测试 包括一些连通"
+    },
+    {
+      "id": 52,
+      "group": "科学上网工具",
+      "title": "Claude AI IP",
+      "url": "https://ip.net.coffee/claude/",
+      "note": "检测 IP 纯净度  风险 属性"
+    },
+    {
+      "id": 53,
+      "group": "科学上网工具",
+      "title": "iplark",
+      "url": "https://iplark.com/",
+      "note": "查看本机 IP 地址"
+    },
+    {
+      "id": 54,
+      "group": "科学上网工具",
+      "title": "IP2Location",
+      "url": "https://www.ip2location.com/",
+      "note": "IP地址地理位置查询 和 网络威胁情报 服务的平台"
+    },
+    {
+      "id": 57,
+      "group": "宝藏项目",
+      "title": "massgrave",
+      "url": "https://massgrave.dev/",
+      "note": "一款开源的Windows和Office激活器，支持HWID、Ohook、TSforge和Online KMS激活方法，并具备高级故障排除功能。"
+    },
+    {
+      "id": 58,
+      "group": "宝藏项目",
+      "title": "FlyingMouseFormat",
+      "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
+      "note": "飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换  #格式转换"
+    },
+    {
+      "id": 59,
+      "group": "宝藏网站",
+      "title": "ifixit",
+      "url": "https://zh.ifixit.com/",
+      "note": "维修指南大全"
+    },
+    {
+      "id": 61,
+      "group": "宝藏网站",
+      "title": "xitongku",
+      "url": "https://www.xitongku.com/",
+      "note": "一个常用装系统的网站"
+    },
+    {
+      "id": 62,
+      "group": "宝藏网站",
+      "title": "msdn",
+      "url": "https://next.itellyou.cn/",
+      "note": "不错的装系统原版软件"
+    },
+    {
+      "id": 63,
+      "group": "宝藏网站",
+      "title": "吾爱破解",
+      "url": "https://www.52pojie.cn/",
+      "note": "网站以软件逆向工程、移动安全分析"
+    },
+    {
+      "id": 64,
+      "group": "宝藏网站",
+      "title": "oldmap",
+      "url": "https://www.oldmapsonline.org/zh",
+      "note": "触摸历史 浏览历史名胜 搜索带有时间轴的老地图。"
+    },
+    {
+      "id": 65,
+      "group": "宝藏网站",
+      "title": "cloudconvert",
+      "url": "https://cloudconvert.com/",
+      "note": "格式转换"
+    },
+    {
+      "id": 66,
+      "group": "宝藏网站",
+      "title": "hapnext",
+      "url": "https://hapnext.cn/hang.php",
+      "note": "那些win必装的应用"
+    },
+    {
+      "id": 67,
+      "group": "宝藏项目",
+      "title": "OpenBrowser",
+      "url": "https://github.com/lyu0805/OpenBrowser",
+      "note": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA"
+    },
+    {
+      "id": 68,
+      "group": "宝藏项目",
+      "title": "RogueCleaner",
+      "url": "https://github.com/aakk007/RogueCleaner",
+      "note": "流氓软件克星：扫描和清理 Windows 流氓右键菜单、自启动、计划任务、服务、浏览器插件和文件关联残留"
+    },
+    {
+      "id": 69,
+      "group": "宝藏网站",
+      "title": "鸭先知",
+      "url": "https://www.yxzhi.com/tvbox",
+      "note": "聚合 TvBox 全链路资源，软件、接口、导航，一站式解决！"
+    },
+    {
+      "id": 70,
+      "group": "代理平台",
+      "title": "林奈奈小铺",
+      "url": "https://www.linnainai.xyz/",
+      "note": "海外社交平台账号与数字服务"
+    },
+    {
+      "id": 71,
+      "group": "宝藏项目",
+      "title": "Skiff",
+      "url": "https://github.com/DrizzleTime/Skiff",
+      "note": "Skiff 是一款本地跨平台磁盘清理工具，用于在删除缓存、应用程序、重复文件和大文件之前进行检查。"
+    },
+    {
+      "id": 72,
+      "group": "宝藏项目",
+      "title": "DefenderRemover",
+      "url": "https://github.com/ionuttbara/windows-defender-remover",
+      "note": "一键禁用删除Windows安全中心"
+    },
+    {
+      "id": 73,
+      "group": "宝藏网站",
+      "title": "Update Catalog",
+      "url": "https://catalog.update.microsoft.com/home.aspx",
+      "note": "一个由微软官方维护的“补丁仓库”，专门用于手动下载 Windows 更新、驱动程序和修复程序。"
+    },
+    {
+      "id": 74,
+      "group": "宝藏网站",
+      "title": "Visual C++",
+      "url": "https://learn.microsoft.com/zh-cn/cpp/windows/latest-supported-vc-redist?view=msvc-170",
+      "note": "Microsoft Visual C++ 运行库"
+    },
+    {
+      "id": 75,
+      "group": "宝藏项目",
+      "title": "Visual C++",
+      "url": "https://github.com/abbodi1406/vcredistgithub.com/abbodi1406/vcredist",
+      "note": "Visual C++合集包"
+    },
+    {
+      "id": 76,
+      "group": "win",
+      "title": "Download Windows 11",
+      "url": "https://www.microsoft.com/zh-cn/software-download/windows11",
+      "note": ""
+    },
+    {
+      "id": 77,
+      "group": "win",
+      "title": "Windows系统下载仓储站",
+      "url": "https://www.hellowindows.cn/",
+      "note": ""
+    },
+    {
+      "id": 78,
+      "group": "win",
+      "title": "next.itellyou.cn",
+      "url": "https://next.itellyou.cn/Original/",
+      "note": ""
+    },
+    {
+      "id": 79,
+      "group": "宝藏项目",
+      "title": "winrar-keygen",
+      "url": "https://github.com/bitcookies/winrar-keygen",
+      "note": "WinRAR密钥生成原理"
+    },
+    {
+      "id": 80,
+      "group": "宝藏网站",
+      "title": "uupdump",
+      "url": "https://uupdump.net/",
+      "note": "轻松地从 Windows 更新服务器下载 UUP 文件"
+    },
+    {
+      "id": 81,
+      "group": "宝藏项目",
+      "title": "DeepSeek Harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "note": "开源 ai  DeepSeek Harness"
+    },
+    {
+      "id": 82,
+      "group": "宝藏网站",
+      "title": "7zip",
+      "url": "https://7-zip.org/download.html",
+      "note": "免费的解压软件"
+    },
+    {
+      "id": 83,
+      "group": "素材网站",
+      "title": "unsplash",
+      "url": "https://unsplash.com/images",
+      "note": ""
+    },
+    {
+      "id": 84,
+      "group": "工具箱",
+      "title": "any-rule.vercel",
+      "url": "https://any-rule.vercel.app/",
+      "note": "正则大全"
+    },
+    {
+      "id": 85,
+      "group": "工具箱",
+      "title": "ifixit",
+      "url": "https://zh.ifixit.com/",
+      "note": "免费修理手册"
+    },
+    {
+      "id": 86,
+      "group": "素材网站",
+      "title": "pixabay",
+      "url": "https://pixabay.com/zh/",
+      "note": ""
+    },
+    {
+      "id": 87,
+      "group": "素材网站",
+      "title": "www.gettyimages",
+      "url": "https://www.gettyimages.hk/",
+      "note": ""
+    },
+    {
+      "id": 88,
+      "group": "素材网站",
+      "title": "lifeofpix",
+      "url": "https://www.lifeofpix.com/",
+      "note": ""
+    },
+    {
+      "id": 89,
+      "group": "素材网站",
+      "title": "pexels",
+      "url": "https://www.pexels.com/zh-cn/",
+      "note": ""
+    },
+    {
+      "id": 90,
+      "group": "素材网站",
+      "title": "pinterest",
+      "url": "https://kr.pinterest.com/",
+      "note": ""
+    },
+    {
+      "id": 91,
+      "group": "素材网站",
+      "title": "kaboompics",
+      "url": "https://kaboompics.com/",
+      "note": ""
+    },
+    {
+      "id": 92,
+      "group": "素材网站",
+      "title": "freejpg",
+      "url": "https://en.freejpg.com.ar/",
+      "note": ""
+    },
+    {
+      "id": 93,
+      "group": "图片放大",
+      "title": "Tu Scale",
+      "url": "https://tu-scale.pages.dev/",
+      "note": ""
+    },
+    {
+      "id": 94,
+      "group": "常用 AI",
+      "title": "Ds Work",
+      "url": "https://www.hotpotliuyu.com/ds-work/",
+      "note": "鲸鱼基于 @deepseek-ai/dsh 的桌面版应用"
+    },
+    {
+      "id": 95,
+      "group": "常用 AI",
+      "title": "Deepseek Harness",
+      "url": "https://github.com/myYangyunfan/dsh_desktop",
+      "note": "鲸鱼桌面端"
+    },
+    {
+      "id": 96,
+      "group": "宝藏项目",
+      "title": "ContextMenuManager",
+      "url": "https://github.com/BluePointLilac/ContextMenuManager",
+      "note": "右键菜单管理工具"
+    },
+    {
+      "id": 97,
+      "group": "宝藏项目",
+      "title": "affihe",
+      "url": "https://affine.pro/",
+      "note": "开源知识库管理"
+    },
+    {
+      "id": 98,
+      "group": "宝藏网站",
+      "title": "revo uninstaller",
+      "url": "https://www.revouninstaller.com/zh/",
+      "note": "卸载工具"
+    },
+    {
+      "id": 99,
+      "group": "宣灵自用工具箱",
+      "title": "dnshe",
+      "url": "https://my.dnshe.com",
+      "note": "在这里轻松管理您的账户、域名、产品与账单，高效掌控使用所有服务。"
+    },
+    {
+      "id": 100,
+      "group": "宣灵自用工具箱",
+      "title": "wispbyte",
+      "url": "https://wispbyte.com/client/create",
+      "note": "托管代码平台 个人服务器"
+    },
+    {
+      "id": 101,
+      "group": "宣灵自用工具箱",
+      "title": "myqnapcloud",
+      "url": "https://www.myqnapcloud.com/u#!/device_management?r=1787789418311",
+      "note": "迷你储存"
+    },
+    {
+      "id": 102,
+      "group": "素材网站",
+      "title": "pinterest",
+      "url": "https://kr.pinterest.com/",
+      "note": ""
+    },
+    {
+      "id": 103,
+      "group": "宝藏项目",
+      "title": "whisper",
+      "url": "https://github.com/lawnvi/whisper",
+      "note": "Whisper:面向个人多设备的局域网直连协作工具·通过端到端加密的本地直连通道"
+    },
+    {
+      "id": 104,
+      "group": "宝藏项目",
+      "title": "outlook-auto-register",
+      "url": "https://github.com/lxf746/outlook-auto-register",
+      "note": "一个批量注册工具"
+    },
+    {
+      "id": 105,
+      "group": "谷歌工具",
+      "title": "www.apkmirror",
+      "url": "https://www.apkmirror.com/",
+      "note": "谷歌商店第三方替代品"
+    },
+    {
+      "id": 106,
+      "group": "常用 AI",
+      "title": "maolaoapi",
+      "url": "https://maolaoapi.com/",
+      "note": "猫佬API-稳定不掺水中转站"
+    },
+    {
+      "id": 107,
+      "group": "宝藏项目",
+      "title": "Chronnote",
+      "url": "https://github.com/Chronnote-TE/Chronnote",
+      "note": "让未来的你，重新遇见过去积累的知识。  笔记、阅读材料、媒体、白板、导图和任务，都会沉淀为可流转的原子。"
+    },
+    {
+      "id": 108,
+      "group": "工具箱",
+      "title": "de5",
+      "url": "https://1m.de5.net",
+      "note": "临时邮箱"
+    },
+    {
+      "id": 109,
+      "group": "灵感枯竭参考网站",
+      "title": "1000 inspiring websites",
+      "url": "https://supercreative.design/1000-inspiring-websites",
+      "note": "灵感广度优先​​的资源库"
+    },
+    {
+      "id": 110,
+      "group": "灵感枯竭参考网站",
+      "title": "seeasaw",
+      "url": "https://seesaw.com/",
+      "note": "落地页设计灵感的资源库"
+    },
+    {
+      "id": 111,
+      "group": "灵感枯竭参考网站",
+      "title": "ogimage.gallery",
+      "url": "https://www.ogimage.gallery/",
+      "note": "社交媒体链接预览图（OG Image)灵感库，"
+    },
+    {
+      "id": 112,
+      "group": "灵感枯竭参考网站",
+      "title": "Godly",
+      "url": "https://godly.design/",
+      "note": "数量​​的典范。好用的分类，能快速定位垂直领域参考。"
+    },
+    {
+      "id": 113,
+      "group": "灵感枯竭参考网站",
+      "title": "pafolios",
+      "url": "https://pafolios.com/",
+      "note": "不是海量的堆砌，而是经过人工筛选的​​高质量、有启发性​​的设计个人网站以及作品集实例。"
+    },
+    {
+      "id": 114,
+      "group": "免费的字体网站",
+      "title": "dafont",
+      "url": "https://www.dafont.com/",
+      "note": "不错的字体网站"
+    },
+    {
+      "id": 115,
+      "group": "宝藏项目",
+      "title": "deskbox",
+      "url": "https://deskbox.fun/",
+      "note": "桌面整理"
+    },
+    {
+      "id": 116,
+      "group": "宣灵的 个人网站",
+      "title": "markflow",
+      "url": "https://markflow.edgeone.dev/",
+      "note": "个人书签网页"
+    },
+    {
+      "id": 117,
+      "group": "宝藏项目",
+      "title": "dism",
+      "url": "https://github.com/Chuyu-Team/Dism-Multi-language",
+      "note": ""
+    },
+    {
+      "id": 118,
+      "group": "宣灵自用",
+      "title": "eagle",
+      "url": "https://cn.eagle.cool/license-retrieval",
+      "note": "eagle 找回你的序列号"
+    },
+    {
+      "id": 119,
+      "group": "宝藏网站",
+      "title": "完美解码",
+      "url": "https://jm.wmzhe.com/",
+      "note": ""
+    },
+    {
+      "id": 120,
+      "group": "工具箱",
+      "title": "vert",
+      "url": "https://vert.sh",
+      "note": "VERT.sh：开源、隐私优先的全能文件格式转换工具"
+    },
+    {
+      "id": 121,
+      "group": "宝藏项目",
+      "title": "DeskTidy",
+      "url": "https://github.com/sqmw/desk_tidy/releases",
+      "note": "DeskTidy:Windows桌面整理与快捷启动器让桌面告别杂乱"
+    },
+    {
+      "id": 123,
+      "group": "宝藏项目",
+      "title": "Hydra Download Manager",
+      "url": "https://github.com/ja7ad/hydra",
+      "note": "平替idm 免费开源"
+    },
+    {
+      "id": 124,
+      "group": "宝藏网站",
+      "title": "freedownloadmanager",
+      "url": "https://www.freedownloadmanager.org/zh/",
+      "note": "這是一款在Windows, macOS, Android 及Linux 作業系統下，強大又現代的下載加速組織器"
+    },
+    {
+      "id": 125,
+      "group": "宝藏项目",
+      "title": "Ghost-Downloader-3",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "note": "也是一个下载器"
+    },
+    {
+      "id": 126,
+      "group": "宝藏项目",
+      "title": "lossless",
+      "url": "https://github.com/mifi/lossless-cut",
+      "note": "无损切割 无损视频/音频编辑的瑞士军刀"
+    },
+    {
+      "id": 127,
+      "group": "宝藏网站",
+      "title": "category",
+      "url": "http://vposy.top/category/original",
+      "note": "微博@vposy大神，分享免费Adobe软件，关注我获取最新Adobe资源。"
+    },
+    {
+      "id": 128,
+      "group": "宝藏网站",
+      "title": "Microsoft PowerToys",
+      "url": "https://learn.microsoft.com/zh-cn/windows/powertoys/",
+      "note": ""
+    },
+    {
+      "id": 129,
+      "group": "宣灵的 个人网站",
+      "title": "BzStream",
+      "url": "https://guguli685-creator.github.io/BzStream/",
+      "note": "一个跑在浏览器里的\"体检报告\"——看看你这台设备、这个浏览器，看起来到底像不像一个真人。"
+    },
+    {
+      "id": 130,
+      "group": "宝藏网站",
+      "title": "DroidvNc",
+      "url": "https://github.com/bk138/droidvnc-ng",
+      "note": "远程桌面工具"
+    },
+    {
+      "id": 131,
+      "group": "宝藏项目",
+      "title": "deskbox",
+      "url": "https://deskbox.fun/download/",
+      "note": "DeskBox v1.5.0：功能与可靠性更新：新增数据自动快照备份、整理桌面重设计（支持公共桌面）、格子内文件夹快捷方式导航、高分辨率 Shell 图标与独立字号设置，并继续降低内存占用；直发包改为 Full Native AOT 构建，自带匹配的 Windows App Runtime。"
+    },
+    {
+      "id": 132,
+      "group": "宝藏项目",
+      "title": "zenConverter",
+      "url": "https://github.com/Jasonzhu1207/ZenConverter/tree/main",
+      "note": "开源免费格式转换apk"
+    },
+    {
+      "id": 133,
+      "group": "宝藏项目",
+      "title": "Windows右键管理",
+      "url": "https://github.com/BluePointLilac/ContextMenuManager",
+      "note": "一个纯粹的Windows右键菜单管理程序"
+    },
+    {
+      "id": 136,
+      "group": "宝藏项目",
+      "title": "median",
+      "url": "https://github.com/bi-box/Median",
+      "note": "一个功能密度极高的，安装包仅200kb的极致轻 量化浏览器"
+    },
+    {
+      "id": 137,
+      "group": "宝藏网站",
+      "title": "dismplus++",
+      "url": "https://www.dismplus.com/index.html",
+      "note": "Dism++ 是一款由初雨团队采用微软内部 API 编写的开源免费实用工具，最初名为\"Windows 更新清理工具\"。它基于 CBS（Component Based Servicing）底层实现，不依赖 DISM.exe，提供完全的图形化操作界面，几乎支持 DISM 的所有功能以及大量 DISM 原本不支持的特性。"
+    },
+    {
+      "id": 138,
+      "group": "宝藏网站",
+      "title": "motrix",
+      "url": "https://www.motrixapp.cn/",
+      "note": "Motrix 支持 HTTP、FTP、BitTorrent 与磁力链接。简洁的界面、高速的多线程下载，让你在 Windows、macOS 与 Linux 上获得一致的清爽体验。 #下载器"
+    },
+    {
+      "id": 139,
+      "group": "宝藏网站",
+      "title": "gopeed",
+      "url": "https://gopeed.com/zh",
+      "note": "现代化下载器 支持 HTTP、BT 种子、磁力链接和 ed2k 多协议下载，免费开源，覆盖全平台。 #下载器"
+    },
+    {
+      "id": 140,
+      "group": "宝藏网站",
+      "title": "PowerToys (Preview)",
+      "url": "https://learn.microsoft.com/zh-cn/windows/powertoys/",
+      "note": "PowerToys：用于自定义 Windows 的 #实用工具"
+    },
+    {
+      "id": 141,
+      "group": "宝藏网站",
+      "title": "mpc-hc",
+      "url": "https://mpc-hc.org/",
+      "note": "MPC-HC（Media Player Classic Home Cinema）是一款免费开源的Windows音视频播放器，专注于轻量、高性能和广泛格式支持。 #视频播放器"
+    },
+    {
+      "id": 142,
+      "group": "宝藏网站",
+      "title": "rarlab",
+      "url": "https://www.rarlab.com/",
+      "note": "#rar的国际官网地址"
+    },
+    {
+      "id": 143,
+      "group": "宝藏网站",
+      "title": "Snipaste",
+      "url": "https://zh.snipaste.com/",
+      "note": "#截图最好用的之一"
+    },
+    {
+      "id": 144,
+      "group": "宝藏网站",
+      "title": "Concat",
+      "url": "https://concatenate.pages.dev/#download",
+      "note": "剪映替代品 自动生成字幕、抠像、声音克隆无账号 无水印"
+    },
+    {
+      "id": 145,
+      "group": "宝藏网站",
+      "title": "compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "note": "PS 的平替免费版"
+    }
+  ],
+  "notesList": [
+    {
+      "id": 1,
+      "title": "🌸 我的手帐日常",
+      "content": "你回复你"
+    }
+  ],
+  "customStickers": [],
+  "pubKey": "WoPNⅨVDN",
+  "updatedAt": "2026-09-29T04:44:13.865Z"
+}
